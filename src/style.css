@@ -43,10 +43,13 @@ ul {
     .outline-col {
         order: 1;
         margin-bottom: 20px;
+        text-align: center;
     }
 
     .book-col {
         order: 2;
+        margin: 0 auto;
+        padding: 0;
     }
 
 }
